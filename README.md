@@ -1,14 +1,5 @@
-House Price Prediction using Machine Learning
-This project predicts house prices using the California Housing Dataset and XGBoost Regressor. It includes data preprocessing, visualization, training, and evaluation of the model.
-
-📌 Dataset
-The dataset used is California Housing Data from Scikit-learn, containing housing information such as:
-
-MedInc - Median income in block
-HouseAge - Median house age in block
-AveRooms - Average number of rooms per household
-AveBedrms - Average number of bedrooms per household
-Population - Block population
-AveOccup - Average number of household members
-Latitude & Longitude - Block location coordinates
-The target variable is house price.
+🚀 Developed a House Price Prediction model using XGBoost Regressor on the California Housing Dataset, achieving high accuracy in predicting property prices.
+📊 Implemented data preprocessing, feature engineering, and visualization techniques to analyze market trends and insights.
+⚡ Optimized model performance by fine-tuning hyperparameters and evaluating with R² Score and Mean Absolute Error (MAE).
+💡 Built a scalable and efficient pipeline using Python, Pandas, Matplotlib, and Seaborn, ensuring smooth data handling and visualization.
+🔍 Deployed an end-to-end machine learning workflow, enhancing predictive accuracy for real estate price forecasting.
